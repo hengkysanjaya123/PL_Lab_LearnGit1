@@ -4,7 +4,9 @@ public class Main {
         System.out.println("Hello");
         System.out.println("Helloooooo");
 
-        int a = 10;
+        int a = 5;
         System.out.println("Hello" + a);
+
+
     }
 }
